@@ -91,19 +91,23 @@
 
 ## 🕹 Fun Zone
 
-<!-- 🐍 Snake Contribution Game -->
+<!-- 🐍 My Contribution Snake Game (Hacker Glow Style) -->
+<h2 align="center" style="color:#ff0000; font-weight:700; font-size:28px; text-shadow:0 0 10px #ff0000;">
+  🐍 My Contribution Snake Game
+</h2>
+
 <div align="center" style="
-  background: linear-gradient(135deg, #0f0f0f, #1c1c1c);
-  padding: 20px;
-  border-radius: 20px;
-  box-shadow: 0 0 20px rgba(255, 0, 0, 0.4);
+  background: radial-gradient(circle at center, #0d0d0d 0%, #000000 100%);
+  border: 2px solid #ff0000;
+  box-shadow: 0 0 25px #ff0000, 0 0 60px rgba(255,0,0,0.3);
+  border-radius: 25px;
+  padding: 25px;
   display: inline-block;
+  margin-top: 10px;
 ">
-  <h2 style="color:#ff0000; font-weight:700; font-size:28px; margin-bottom:15px;">
-    🐍 My Contribution Snake Game
-  </h2>
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="900" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="850" />
 </div>
+
 ---
 
 ## 📫 Let's Connect
