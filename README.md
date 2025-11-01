@@ -102,7 +102,7 @@
   <h2 style="color:#ff0000; font-weight:700; font-size:28px; margin-bottom:15px;">
     🐍 My Contribution Snake Game
   </h2>
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="800" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="900" />
 </div>
 ---
 
