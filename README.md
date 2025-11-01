@@ -35,26 +35,23 @@
 ## 🧰 Arsenal & Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,metasploit,linux,androidstudio,python,azure,aws,googlecloud,docker,github,wireshark&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=burpsuite,postman,github,wireshark,metasploit,linux,python,azure,aws,googlecloud,docker&theme=dark" />
 </p>
 
-  
-  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat&logo=burpsuite&logoColor=white)
-  ![Nmap](https://img.shields.io/badge/Nmap-008080?style=flat&logo=nmap&logoColor=white)
-  ![Metasploit](https://img.shields.io/badge/Metasploit-1575F9?style=flat&logo=metasploit&logoColor=white)
-  ![ffuf](https://img.shields.io/badge/ffuf-fuzzer-purple)
-  ![Amass](https://img.shields.io/badge/Amass-Recon-green)
-  ![Nuclei](https://img.shields.io/badge/Nuclei-2E3A66?style=flat)
-  ![subfinder](https://img.shields.io/badge/subfinder-Subdomain-orange)
-  ![WPScan](https://img.shields.io/badge/WPScan-00598e?style=flat&logo=wordpress)
-  ![GitLeaks](https://img.shields.io/badge/GitLeaks-Secret--Scanner-critical)
-  ![Hydra](https://img.shields.io/badge/Hydra-Login%20Cracker-darkgreen)
-  ![Hashcat](https://img.shields.io/badge/Hashcat-Password--Recovery-orange)
-  ![SQLMap](https://img.shields.io/badge/SQLMap-AEB404?style=flat)
-  ![Apktool](https://img.shields.io/badge/Apktool-APK--Reverse-blueviolet)
-  ![JADX](https://img.shields.io/badge/JADX-DEX%20to%20JAVA-blue)
+ <p align="center">
+  <img src="https://skillicons.dev/icons?i=burpsuite&theme=dark" style="height:48px;margin:0 10px;" alt="Burp Suite" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" style="height:48px;margin:0 10px;" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" style="height:48px;margin:0 10px;" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=wireshark&theme=dark" style="height:48px;margin:0 10px;" alt="Wireshark" />
+  <img src="https://skillicons.dev/icons?i=metasploit&theme=dark" style="height:48px;margin:0 10px;" alt="Metasploit" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" style="height:48px;margin:0 10px;" alt="Kali/Linux" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" style="height:48px;margin:0 10px;" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" style="height:48px;margin:0 10px;" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" style="height:48px;margin:0 10px;" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" style="height:48px;margin:0 10px;" alt="GCP" />
+  <img src="https://skillicons.dev/icons?i=docker&theme=dark" style="height:48px;margin:0 10px;" alt="Docker" />
 </p>
+
 
 ---
 
