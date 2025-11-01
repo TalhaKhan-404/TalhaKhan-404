@@ -131,67 +131,8 @@
   <img src="https://img.shields.io/badge/Find-%23005BFF?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23FF7F11?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D7263D?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%2300A86B?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23FFD300?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A0DAD?style=for-the-badge&logo=repeat&logoColor=white"/>
 </p>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Security Lifecycle Flow</title>
-<style>
-  body {
-    font-family: "Segoe UI", Arial, sans-serif;
-    background-color: #f9f9f9;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-  }
+<p align="center">
+  <img src="https://img.shields.io/badge/Find-%230078D7?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23F28C28?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D32F2F?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%232E7D32?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23F9A825?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A1B9A?style=for-the-badge&logo=repeat&logoColor=white"/>
+</p>
 
-  .flow {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-  }
-
-  .step {
-    color: white;
-    font-weight: 600;
-    letter-spacing: 0.5px;
-    padding: 12px 24px;
-    border-radius: 6px;
-    font-size: 14px;
-    box-shadow: 0 3px 8px rgba(0,0,0,0.15);
-  }
-
-  .arrow {
-    font-size: 20px;
-    color: #333;
-  }
-
-  .find { background: #0078D7; }       /* Blue */
-  .exploit { background: #F28C28; }    /* Orange */
-  .post { background: #D32F2F; }       /* Red */
-  .report { background: #2E7D32; }     /* Green */
-  .secure { background: #F9A825; }     /* Yellow */
-  .repeat { background: #6A1B9A; }     /* Purple */
-</style>
-</head>
-<body>
-
-  <div class="flow">
-    <div class="step find">FIND</div>
-    <div class="arrow">→</div>
-    <div class="step exploit">EXPLOIT</div>
-    <div class="arrow">→</div>
-    <div class="step post">POST-EXPLOIT</div>
-    <div class="arrow">→</div>
-    <div class="step report">REPORT</div>
-    <div class="arrow">→</div>
-    <div class="step secure">SECURE</div>
-    <div class="arrow">→</div>
-    <div class="step repeat">REPEAT</div>
-  </div>
-
-</body>
-</html>
 
