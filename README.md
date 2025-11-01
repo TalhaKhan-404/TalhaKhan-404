@@ -118,10 +118,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/talha-khan2000/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=black" />
+    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:khantalha618@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khantalha618@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=black" />
+    <img src="https://img.shields.io/badge/Email-khantalha618@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
