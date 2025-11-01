@@ -96,7 +96,7 @@
   🐍 My Contribution Snake Game
 </h2>
 
-<div align="center">
+<div align="center" style="
   background: radial-gradient(circle at center, #0d0d0d 0%, #000000 100%);
   border: 2px solid #ff0000;
   box-shadow: 0 0 25px #ff0000, 0 0 60px rgba(255,0,0,0.3);
@@ -107,6 +107,7 @@
 ">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="850" />
 </div>
+
 
 ---
 
