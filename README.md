@@ -76,11 +76,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaKhan-404&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaKhan-404&theme=tokyonight&hide_border=true" width="49%" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaKhan-404&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TalhaKhan-404&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true" height="180" alt="GitHub Stats" />
+
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TalhaKhan-404&theme=tokyonight&hide_border=false&border_radius=15" height="180" alt="GitHub Streak" />
+
+</div>
+
 
 ---
 
@@ -97,7 +102,7 @@
   <h2 style="color:#ff0000; font-weight:700; font-size:28px; margin-bottom:15px;">
     🐍 My Contribution Snake Game
   </h2>
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="600" />
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="800" />
 </div>
 ---
 
