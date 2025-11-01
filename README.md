@@ -35,7 +35,9 @@
 ## 🧰 Arsenal & Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,androidstudio,postman,github&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=burpsuite,postman,github,wireshark,metasploit,linux,androidstudio,python,azure,aws,googlecloud,docker&theme=dark" />
+</p>
+
   
   ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
   ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat&logo=burpsuite&logoColor=white)
