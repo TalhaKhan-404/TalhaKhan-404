@@ -1,108 +1,110 @@
-<h1 align="center">Hi 👋, I'm TalhaKhan-404</h1>
-<h3 align="center">⚔️ Offensive Security Specialist | Bug Bounty Hunter | Red Team Operator ⚔️</h3>
+<h1 align="center">⚔️ Hi, I'm <a href="https://github.com/TalhaKhan-404" target="_blank">TalhaKhan-404</a> ⚔️</h1>
+<h3 align="center">Offensive Security Specialist | Bug Bounty Hunter | Red Team Operator</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=An0nym0us&label=Profile%20views&color=0e75b6&style=flat" alt="An0nym0us" />
+  <img src="https://komarev.com/ghpvc/?username=TalhaKhan-404&label=Profile%20Views&color=ff0000&style=flat-square" alt="TalhaKhan-404" />
+  <img src="https://img.shields.io/badge/Location-Mumbai%2C%20India 🇮🇳-blueviolet?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Always%20Hunting-success?style=flat-square" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- Offensive security practitioner with **multi-domain expertise** in web, mobile & network penetration testing.  
-- Passionate about discovering **critical vulnerabilities** in real-world applications and cloud environments.  
-- Fluent with _Kali Linux_ toolset and bespoke automation scripts for reconnaissance and exploitation.  
-- Active on global bug-bounty platforms and contributor to open-source security projects.  
-- Based in **Mumbai, India 🇮🇳** — always ready to collaborate and learn.
+💀 Passionate about discovering **critical vulnerabilities** in web, mobile, API, and cloud ecosystems.  
+🔍 Specialized in **Offensive Security**, **Red Teaming**, and **Cloud Exploitation**.  
+⚙️ Fluent with _Kali Linux_, _Python_, and _custom automation scripts_ for reconnaissance & exploitation.  
+🌍 Based in **Mumbai, India 🇮🇳** — always learning, building, and breaking to secure the digital world.  
+🛡️ Active on **Bugcrowd**, **HackerOne**, and private programs.  
 
 ---
 
-## 🚀 Core Competencies
+## ⚔️ Core Expertise
 
 | Domain | Focus Areas |
-| ------ | ----------- |
-| **Web Application Pentesting** | OWASP Top 10, SSRF, IDOR, XSS, SQLi, logic flaws |
-| **Mobile Pentesting** | Android reverse engineering, API traffic manipulation, root-detection bypass |
-| **API Security & Reverse Engineering** | OpenAPI/Swagger review, broken auth, mass assignment, undocumented endpoints |
-| **Cloud & Infrastructure** | AWS S3/CloudFront takeover, ACM misconfig, DNS zone-transfer, open-port enumeration |
-| **Reverse Engineering** | Static & dynamic analysis of binaries/APKs, de-obfuscation, patch diffing |
-| **Red Teaming** | Initial access, C2 infrastructure, privilege escalation, lateral movement, reporting |
+| :------ | :----------- |
+| **Web Pentesting** | OWASP Top 10, SSRF, IDOR, XSS, SQLi, Logic Flaws |
+| **Mobile Security** | Android Reversing, API Interception, Root Bypass |
+| **API & Reverse Engineering** | OpenAPI Audit, Mass Assignment, Hidden Endpoints |
+| **Cloud & Infra** | AWS S3/CloudFront Takeover, ACM, DNS, Open Ports |
+| **Reverse Engineering** | Binary/APK Analysis, Patch Diffing, Deobfuscation |
+| **Red Team Ops** | Initial Access, C2 Infra, Priv Esc, Lateral Movement |
 
 ---
 
-## 🛠 Technical Stack & Tools
-
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat&logo=burpsuite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-008080?style=flat&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-1575F9?style=flat&logo=metasploit&logoColor=white)
-![ffuf](https://img.shields.io/badge/ffuf-fast-purple)
-![WPScan](https://img.shields.io/badge/WPScan-00598e?style=flat&logo=wordpress&logoColor=white)
-![Nuclei](https://img.shields.io/badge/Nuclei-2E3A66?style=flat)
-![dirsearch](https://img.shields.io/badge/dirsearch-directory--scanner-lightgrey)
-![Amass](https://img.shields.io/badge/Amass-Recon-green)
-![subfinder](https://img.shields.io/badge/subfinder-subdomain--enum-orange)
-![shodan-cli](https://img.shields.io/badge/Shodan%20CLI-cb3837?style=flat)
-![fofa-cli](https://img.shields.io/badge/FOFA%20CLI-blue?style=flat)
-![GitLeaks](https://img.shields.io/badge/GitLeaks-secret--scanner-critical)
-![TruffleHog](https://img.shields.io/badge/TruffleHog-secret--hunt-brown)
-![detect-secrets](https://img.shields.io/badge/detect--secrets-A31F34?style=flat)
-![AWS CLI](https://img.shields.io/badge/AWS%20CLI-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![jwt_tool](https://img.shields.io/badge/jwt__tool-token--attack-yellow)
-![kiterunner](https://img.shields.io/badge/kiterunner-API%20fuzz-9cf)
-![SQLMap](https://img.shields.io/badge/SQLMap-AEB404?style=flat)
-![Hydra](https://img.shields.io/badge/Hydra-login%20cracker-darkgreen)
-![Hashcat](https://img.shields.io/badge/Hashcat-password%20cracker-orange)
-![Apktool](https://img.shields.io/badge/Apktool-APK--reverse-blueviolet)
-![JADX](https://img.shields.io/badge/JADX-DEX%20--%3E%20JAVA-blue)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-
----
-
-## 🛡️ Vulnerabilities & Misconfigurations Exploited
-
-- **Subdomain Takeover:** S3 & CloudFront orphaned domains  
-- **Server-Side Request Forgery (SSRF)**  
-- **Cross-Site Scripting (stored / reflected / DOM)**  
-- **Insecure Direct Object Reference (IDOR)**  
-- **Broken Access Control & Privilege Escalation**  
-- **SQL Injection & Blind NoSQL Injection**  
-- **Open Redirect & Clickjacking**  
-- **CORS Misconfiguration & Credential Leakage**  
-- **API Key / Token Exposure & Scope Escalation**  
-- **Unrestricted File Upload → Remote Code Execution**  
-- **Weak TLS / Cipher Suites & Certificate Validation Bypass**  
-- **DNS Zone Transfer & Misconfigured Records**  
-- **Misconfigured WAF Rules & Bypass Techniques**  
-- **IAM Misconfigurations in AWS (Privilege Escalation, Public S3 buckets)**  
-
----
-
-## 🔥 Quote That Drives Me
-
-> **“Keep hunting until you win the war against vulnerabilities.”**
-
----
-
-## 📊 GitHub Analytics
+## 🧰 Arsenal & Toolkit
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=An0nym0us&show_icons=true&theme=radical" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nym0us&layout=compact&theme=radical" /><br>
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,docker,aws,androidstudio,postman,github&theme=dark" /><br><br>
+  
+  ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+  ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-ff6600?style=flat&logo=burpsuite&logoColor=white)
+  ![Nmap](https://img.shields.io/badge/Nmap-008080?style=flat&logo=nmap&logoColor=white)
+  ![Metasploit](https://img.shields.io/badge/Metasploit-1575F9?style=flat&logo=metasploit&logoColor=white)
+  ![ffuf](https://img.shields.io/badge/ffuf-fuzzer-purple)
+  ![Amass](https://img.shields.io/badge/Amass-Recon-green)
+  ![Nuclei](https://img.shields.io/badge/Nuclei-2E3A66?style=flat)
+  ![subfinder](https://img.shields.io/badge/subfinder-Subdomain-orange)
+  ![WPScan](https://img.shields.io/badge/WPScan-00598e?style=flat&logo=wordpress)
+  ![GitLeaks](https://img.shields.io/badge/GitLeaks-Secret--Scanner-critical)
+  ![Hydra](https://img.shields.io/badge/Hydra-Login%20Cracker-darkgreen)
+  ![Hashcat](https://img.shields.io/badge/Hashcat-Password--Recovery-orange)
+  ![SQLMap](https://img.shields.io/badge/SQLMap-AEB404?style=flat)
+  ![Apktool](https://img.shields.io/badge/Apktool-APK--Reverse-blueviolet)
+  ![JADX](https://img.shields.io/badge/JADX-DEX%20to%20JAVA-blue)
 </p>
 
 ---
 
-<!-- Snake Game Repo View -->
+## 🧨 Notable Exploits & Findings
+
+- 🧩 **Subdomain Takeover:** AWS S3, CloudFront  
+- 💥 **Server-Side Request Forgery (SSRF)**  
+- 🔓 **Broken Access Control / IDOR / PrivEsc**  
+- 💉 **SQLi & NoSQLi**  
+- ⚙️ **CORS Misconfigurations & Token Leaks**  
+- 🎭 **WAF Bypass & Open Redirect**  
+- 🧱 **DNS Zone Transfer & Misconfigured Records**  
+- ☁️ **AWS IAM & Bucket Exposure**  
+
+---
+
+## 🔥 Motivation
+
+> _“Keep hunting until you win the war against vulnerabilities.”_  
+> — **Talha Khan**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalhaKhan-404&show_icons=true&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TalhaKhan-404&theme=tokyonight&hide_border=true" width="49%" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaKhan-404&layout=compact&theme=tokyonight&hide_border=true" width="60%" />
+</p>
+
+---
+
+## 🕹 Fun Zone
 
 <div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/TalhaKhan-404/TalhaKhan-404/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
-## 📫 Reach Me Out: 
-https://www.linkedin.com/in/talha-khan2000/
- 
+---
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/talha-khan2000/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:talhakhan404@proton.me">
+    <img src="https://img.shields.io/badge/Email-talhakhan404@proton.me-critical?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><i>⚡ “Exploit. Report. Secure. Repeat.” ⚡</i></p>
