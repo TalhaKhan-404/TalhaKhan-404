@@ -98,7 +98,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=An0nym0us&show_icons=true&theme=radical" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nym0us&layout=compact&theme=radical" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=An0nym0us&theme=radical&hide_border=true" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TalhaKhan-404&theme=radical&hide_border=true" alt="streak" />
 </p>
 
 ---
