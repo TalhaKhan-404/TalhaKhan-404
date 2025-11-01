@@ -69,8 +69,11 @@
 
 ## 🔥 Motivation
 
-<p align="center"><strong><span style="color:#FF0000; font-size:1.8em;">“Keep hunting until you win the war against vulnerabilities.”</span></strong><br>— <i>Talha Khan</i></p>
-
+<h2 align="center">
+  <span style="color:#ff0000; font-weight:600; font-size:28px;">
+    ⚡ “Keep hunting until you win the war against vulnerabilities.” ⚡
+  </span>
+</h2>
 
 ---
 
@@ -128,8 +131,3 @@
   <img src="https://img.shields.io/badge/Find-%23005BFF?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23FF7F11?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D7263D?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%2300A86B?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23FFD300?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A0DAD?style=for-the-badge&logo=repeat&logoColor=white"/>
 </p>
 
-<h2 align="center">
-  <span style="color:#ff0000; font-weight:600; font-size:28px;">
-    ⚡ “Keep hunting until you win the war against vulnerabilities.” ⚡
-  </span>
-</h2>
