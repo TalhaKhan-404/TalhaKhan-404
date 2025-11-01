@@ -128,3 +128,6 @@
   ⚡ “Find > Exploit > Post-Exploit > Report > Secure > Repeat” ⚡
 </h2>
 
+<p align="center">
+  <img src="https://fakeimg.pl/600x100/000000/ff0000/?text=⚡+Exploit.+Report.+Secure.+Repeat.+⚡&font=lobster" alt="Exploit. Report. Secure. Repeat.">
+</p>
