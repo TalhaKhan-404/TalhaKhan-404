@@ -90,6 +90,11 @@
   <img src="https://raw.githubusercontent.com/TalhaKhan-404/TalhaKhan-404/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 </div>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 ---
 
 ## 📫 Let's Connect
