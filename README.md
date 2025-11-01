@@ -129,4 +129,7 @@
 </p>
 
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Find-%23005BFF.svg?style=flat-square&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/➜-%23000000.svg?style=flat-square"/><img src="https://img.shields.io/badge/Exploit-%23FF7F11.svg?style=flat-square&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/➜-%23000000.svg?style=flat-square"/><img src="https://img.shields.io/badge/Post--Exploit-%23D7263D.svg?style=flat-square&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/➜-%23000000.svg?style=flat-square"/><img src="https://img.shields.io/badge/Report-%2300A86B.svg?style=flat-square&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/➜-%23000000.svg?style=flat-square"/><img src="https://img.shields.io/badge/Secure-%23FFD300.svg?style=flat-square&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/➜-%23000000.svg?style=flat-square"/><img src="https://img.shields.io/badge/Repeat-%236A0DAD.svg?style=flat-square&logo=repeat&logoColor=white"/>
+</p>
 
