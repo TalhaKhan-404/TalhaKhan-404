@@ -16,11 +16,6 @@
 - Based in **Mumbai, India 🇮🇳** — always ready to collaborate and learn.
 
 ---
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🚀 Core Competencies
 
@@ -98,10 +93,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=An0nym0us&show_icons=true&theme=radical" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=An0nym0us&layout=compact&theme=radical" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TalhaKhan-404&theme=radical&hide_border=true" alt="streak" />
 </p>
 
 ---
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 📫 Reach Me
  
