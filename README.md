@@ -124,4 +124,6 @@
 
 ---
 
-<p align="center"><i>⚡ “Exploit. Report. Secure. Repeat.” ⚡</i></p>
+<p align="center">
+  <strong><span style="color:#ff0000; font-size:26px;">⚡ “Exploit. Report. Secure. Repeat.” ⚡</span></strong>
+</p>
