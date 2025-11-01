@@ -71,10 +71,8 @@
 
 ## 🔥 Motivation
 
-<p align="center">
-  <strong><span style="font-size:1.4em;">“Keep hunting until you win the war against vulnerabilities.”</span></strong><br>
-  — <i>Talha Khan</i>
-</p>
+<p align="center"><strong><span style="color:#FF0000; font-size:1.8em;">“Keep hunting until you win the war against vulnerabilities.”</span></strong><br>— <i>Talha Khan</i></p>
+
 
 ---
 
