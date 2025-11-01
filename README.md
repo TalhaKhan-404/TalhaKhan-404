@@ -1,5 +1,5 @@
-<h1 align="center">⚔️ Hi, I'm <a href="https://github.com/TalhaKhan-404" target="_blank">TalhaKhan-404</a> ⚔️</h1>
-<h3 align="center">Offensive Security Specialist | Bug Bounty Hunter | Red Team Operator</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#FF0000;">TalhaKhan-404</span></h1>
+<h3 align="center">⚔️ Offensive Security Specialist | Bug Bounty Hunter | Red Team Operator ⚔️</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TalhaKhan-404&label=Profile%20Views&color=ff0000&style=flat-square" alt="TalhaKhan-404" />
@@ -71,8 +71,10 @@
 
 ## 🔥 Motivation
 
-> _“Keep hunting until you win the war against vulnerabilities.”_  
-> — **Talha Khan**
+<p align="center">
+  <strong><span style="font-size:1.4em;">“Keep hunting until you win the war against vulnerabilities.”</span></strong><br>
+  — <i>Talha Khan</i>
+</p>
 
 ---
 
@@ -100,8 +102,8 @@
   <a href="https://www.linkedin.com/in/talha-khan2000/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Talha%20Khan-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:talhakhan404@proton.me">
-    <img src="https://img.shields.io/badge/Email-talhakhan404@proton.me-critical?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <a href="mailto:khantalha618@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khantalha618@gmail.com-critical?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
