@@ -127,34 +127,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Find-%23005BFF?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23FF7F11?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D7263D?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%2300A86B?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23FFD300?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A0DAD?style=for-the-badge&logo=repeat&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Find-%230078D7?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23F28C28?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D32F2F?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%232E7D32?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23F9A825?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A1B9A?style=for-the-badge&logo=repeat&logoColor=white"/>
-</p>
-
-
-<p align="center" style="zoom:125%;">
-  <img src="https://img.shields.io/badge/Find-%230078D7?style=for-the-badge&logo=search&logoColor=white"/>
-  <img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Exploit-%23F28C28?style=for-the-badge&logo=zap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Post--Exploit-%23D32F2F?style=for-the-badge&logo=exploitdb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Report-%232E7D32?style=for-the-badge&logo=document&logoColor=white"/>
-  <img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Secure-%23F9A825?style=for-the-badge&logo=shield&logoColor=black"/>
-  <img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Repeat-%236A1B9A?style=for-the-badge&logo=repeat&logoColor=white"/>
-</p>
-
-
-<p align="center" style="zoom:130%; white-space: nowrap;">
-  <img src="https://img.shields.io/badge/Find-%230078D7?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23F28C28?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D32F2F?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%232E7D32?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23F9A825?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A1B9A?style=for-the-badge&logo=repeat&logoColor=white"/>
-</p>
-
 <p align="center" style="zoom:180%; white-space: nowrap;">
   <img src="https://img.shields.io/badge/Find-%230078D7?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23F28C28?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D32F2F?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%232E7D32?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23F9A825?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A1B9A?style=for-the-badge&logo=repeat&logoColor=white"/>
 </p>
