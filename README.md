@@ -35,7 +35,7 @@
 ## 🧰 Arsenal & Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,postman,metasploit,linux,androidstudio,python,azure,aws,googlecloud,docker,github,wireshark&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postman,metasploit,linux,androidstudio,python,azure,aws,googlecloud,docker,github,wireshark&theme=dark" />
 </p>
 
   
