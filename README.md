@@ -43,8 +43,8 @@
   <img src="https://skillicons.dev/icons?i=azure&theme=dark" style="height:48px;margin:0 10px;" alt="Azure" />
   <img src="https://skillicons.dev/icons?i=jquery&theme=dark" style="height:48px;margin:0 10px;" alt="jQuery" />
   <img src="https://skillicons.dev/icons?i=python&theme=dark" style="height:48px;margin:0 10px;" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" style="height:48px;margin:0 10px;" alt="Kali/Linux" />
-  <img src="https://skillicons.dev/icons?i=openai&theme=dark" style="height:48px;margin:0 10px;" alt="AI / OpenAI" />
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" style="height:48px;margin:0 10px;" alt="Kali/Linux" />
+  <img src="https://skillicons.dev/icons?i=ai&theme=dark" style="height:48px;margin:0 10px;" alt="AI / OpenAI" />
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="height:48px;margin:0 10px;" alt="MySQL" />
   <img src="https://skillicons.dev/icons?i=powershell&theme=dark" style="height:48px;margin:0 10px;" alt="PowerShell" />
   <img src="https://skillicons.dev/icons?i=windows&theme=dark" style="height:48px;margin:0 10px;" alt="Windows" />
