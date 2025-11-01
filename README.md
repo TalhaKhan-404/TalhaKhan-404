@@ -125,5 +125,5 @@
 ---
 
 <p align="center">
-  <strong><span style="color:#ff0000; font-size:28px;">⚡ “Find > Exploit > PostExploit > Report > Secure > Repeat.” ⚡</span></strong>
+  <strong><span style="color:#ff0000; font-size:32px;">⚡ “Find > Exploit > Post-Exploit > Report > Secure > Repeat.” ⚡</span></strong>
 </p>
