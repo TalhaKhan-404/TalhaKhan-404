@@ -86,14 +86,18 @@
 
 ## 🕹 Fun Zone
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/TalhaKhan-404/TalhaKhan-404/output/github-contribution-grid-snake-dark.svg" alt="snake" />
-</div>
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<!-- 🐍 Snake Contribution Game -->
+<div align="center" style="
+  background: linear-gradient(135deg, #0f0f0f, #1c1c1c);
+  padding: 20px;
+  border-radius: 20px;
+  box-shadow: 0 0 20px rgba(255, 0, 0, 0.4);
+  display: inline-block;
+">
+  <h2 style="color:#ff0000; font-weight:700; font-size:28px; margin-bottom:15px;">
+    🐍 My Contribution Snake Game
+  </h2>
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="600" />
 </div>
 ---
 
