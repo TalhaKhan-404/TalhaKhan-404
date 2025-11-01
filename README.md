@@ -132,3 +132,11 @@
   <img src="https://img.shields.io/badge/⚡%20Find%20>%20Exploit%20>%20Post--Exploit%20>%20Report%20>%20Secure%20>%20Repeat%20⚡-rainbow?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Find-%23FF0000.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Exploit-%23FF7F00.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Post--Exploit-%23FFD700.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Report-%2300FF00.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Secure-%2300BFFF.svg?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Repeat-%238B00FF.svg?style=for-the-badge&logoColor=white" />
+</p>
