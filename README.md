@@ -103,5 +103,6 @@
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-## 📫 Reach Me
+## 📫 Reach Me Out: 
+https://www.linkedin.com/in/talha-khan2000/
  
