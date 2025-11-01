@@ -137,3 +137,11 @@
   <br>
   <i style="color:#ff4d4d;">— Talha Khan</i>
 </h3>
+
+<h2 align="center">
+  <span style="color:#ff0000; font-weight:600; font-size:28px;">
+    ⚡ “Keep hunting until you win the war against vulnerabilities.” ⚡
+  </span>
+  <br>
+  <i style="color:#ff4d4d; font-size:18px;">— Talha Khan</i>
+</h2>
