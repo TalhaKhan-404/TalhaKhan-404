@@ -130,3 +130,31 @@
 <p align="center" style="zoom:180%; white-space: nowrap;">
   <img src="https://img.shields.io/badge/Find-%230078D7?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23F28C28?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D32F2F?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%232E7D32?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23F9A825?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A1B9A?style=for-the-badge&logo=repeat&logoColor=white"/>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/talha-khan2000/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Talha%20Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:khantalha618@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khantalha618@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/talha-khan2000/" target="_blank">
+    <img src="https://img.shields.io/badge/-Talha%20Khan-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:khantalha618@gmail.com">
+    <img src="https://img.shields.io/badge/-khantalha618@gmail.com-EA4335?style=plastic&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/talha-khan2000/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Visit_Profile-0A66C2?style=for-the-badge" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:khantalha618@gmail.com">
+    <img src="https://img.shields.io/badge/Email-khantalha618@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
