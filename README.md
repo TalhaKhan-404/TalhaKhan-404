@@ -129,5 +129,6 @@
 </h2>
 
 <p align="center">
-  <img src="https://fakeimg.pl/600x100/000000/ff0000/?text=⚡+Exploit.+Report.+Secure.+Repeat.+⚡&font=lobster" alt="Exploit. Report. Secure. Repeat.">
+  <img src="https://img.shields.io/badge/⚡%20Find%20>%20Exploit%20>%20Post--Exploit%20>%20Report%20>%20Secure%20>%20Repeat%20⚡-rainbow?style=for-the-badge" />
 </p>
+
