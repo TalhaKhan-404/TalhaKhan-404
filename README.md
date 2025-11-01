@@ -35,22 +35,21 @@
 ## 🧰 Arsenal & Toolkit
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,postman,github,wireshark,metasploit,linux,python,azure,aws,googlecloud,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws&theme=dark" style="height:48px;margin:0 10px;" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" style="height:48px;margin:0 10px;" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" style="height:48px;margin:0 10px;" alt="WordPress" />
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" style="height:48px;margin:0 10px;" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" style="height:48px;margin:0 10px;" alt="GCP" />
+  <img src="https://skillicons.dev/icons?i=azure&theme=dark" style="height:48px;margin:0 10px;" alt="Azure" />
+  <img src="https://skillicons.dev/icons?i=jquery&theme=dark" style="height:48px;margin:0 10px;" alt="jQuery" />
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" style="height:48px;margin:0 10px;" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" style="height:48px;margin:0 10px;" alt="Kali/Linux" />
+  <img src="https://skillicons.dev/icons?i=openai&theme=dark" style="height:48px;margin:0 10px;" alt="AI / OpenAI" />
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" style="height:48px;margin:0 10px;" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=powershell&theme=dark" style="height:48px;margin:0 10px;" alt="PowerShell" />
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" style="height:48px;margin:0 10px;" alt="Windows" />
 </p>
 
- <p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite&theme=dark" style="height:48px;margin:0 10px;" alt="Burp Suite" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" style="height:48px;margin:0 10px;" alt="Postman" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" style="height:48px;margin:0 10px;" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=wireshark&theme=dark" style="height:48px;margin:0 10px;" alt="Wireshark" />
-  <img src="https://skillicons.dev/icons?i=metasploit&theme=dark" style="height:48px;margin:0 10px;" alt="Metasploit" />
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" style="height:48px;margin:0 10px;" alt="Kali/Linux" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" style="height:48px;margin:0 10px;" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=azure&theme=dark" style="height:48px;margin:0 10px;" alt="Azure" />
-  <img src="https://skillicons.dev/icons?i=aws&theme=dark" style="height:48px;margin:0 10px;" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=googlecloud&theme=dark" style="height:48px;margin:0 10px;" alt="GCP" />
-  <img src="https://skillicons.dev/icons?i=docker&theme=dark" style="height:48px;margin:0 10px;" alt="Docker" />
-</p>
 
 
 ---
