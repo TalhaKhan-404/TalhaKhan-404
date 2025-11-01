@@ -127,3 +127,13 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Find-%23005BFF?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23FF7F11?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D7263D?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%2300A86B?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23FFD300?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A0DAD?style=for-the-badge&logo=repeat&logoColor=white"/>
 </p>
+
+<h2 align="center">
+  <strong>
+    <span style="color:#ff0000;">
+      ⚡ 𝗞𝗲𝗲𝗽 𝗵𝘂𝗻𝘁𝗶𝗻𝗴 𝘂𝗻𝘁𝗶𝗹 𝘆𝗼𝘂 𝘄𝗶𝗻 𝘁𝗵𝗲 𝘄𝗮𝗿 𝗮𝗴𝗮𝗶𝗻𝘀𝘁 𝘃𝘂𝗹𝗻𝗲𝗿𝗮𝗯𝗶𝗹𝗶𝘁𝗶𝗲𝘀. ⚡
+    </span>
+  </strong>
+  <br>
+  <i style="color:#ff4d4d;">— Talha Khan</i>
+</h2>
