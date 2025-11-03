@@ -140,6 +140,6 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF6347&size=40&center=true&vCenter=true&height=50&width=1000&lines=Find→Exploit→Post-Exploit→Report→Secure→Repeat...!" alt="Title"></img>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF6347&size=30&center=true&vCenter=true&height=50&width=1000&lines=Find+→+Exploit+→+Post-Exploit+→+Report+→+Secure+→+Repeat...!" alt="Title"></img>
   </a>
 </div>
