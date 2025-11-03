@@ -11,11 +11,11 @@
 
 ## 🧠 About Me
 
-💀 Passionate about discovering **critical vulnerabilities** in web, mobile, API, and cloud ecosystems.  
-🔍 Specialized in **Offensive Security**, **Red Teaming**, and **Cloud Exploitation**.  
-⚙️ Fluent with _Kali Linux_, _Python_, and _custom automation scripts_ for reconnaissance & exploitation.  
-🌍 Based in **Mumbai, India 🇮🇳** — always learning, building, and breaking to secure the digital world.  
-🛡️ Active on **Bugcrowd**, **HackerOne**, and private programs.  
+- 💀 Passionate about discovering **critical vulnerabilities** in web, mobile, API, and cloud ecosystems.  
+- 🔍 Specialized in **Offensive Security**, **Red Teaming**, and **Cloud Exploitation**.  
+- ⚙️ Fluent with _Kali Linux_, _Python_, and _custom automation scripts_ for reconnaissance & exploitation.  
+- 🌍 Based in **Mumbai, India 🇮🇳** — always learning, building, and breaking to secure the digital world.  
+- 🛡️ Active on **Bugcrowd**, **HackerOne**, and private programs.  
 
 ---
 
