@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#FF0000;">TalhaKhan-404</span></h1>
+
+<h1 align="center">Hi   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+, I'm <span style="color:#FF0000;">TalhaKhan-404</span></h1>
 <h3 align="center">⚔️ Offensive Security Specialist | Bug Bounty Hunter | Red Team Operator ⚔️</h3>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF6347&size=50&center=true&vCenter=true&height=60&width=600&lines=Welcome+to+my+profile!" alt="Title"></img>
+  </a>
+</div>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TalhaKhan-404&label=Profile%20Views&color=ff0000&style=flat-square" alt="TalhaKhan-404" />
@@ -130,3 +137,9 @@
 <p align="center" style="zoom:180%; white-space: nowrap;">
   <img src="https://img.shields.io/badge/Find-%230078D7?style=for-the-badge&logo=search&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Exploit-%23F28C28?style=for-the-badge&logo=zap&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Post--Exploit-%23D32F2F?style=for-the-badge&logo=exploitdb&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Report-%232E7D32?style=for-the-badge&logo=document&logoColor=white"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Secure-%23F9A825?style=for-the-badge&logo=shield&logoColor=black"/><img src="https://img.shields.io/badge/→-%23000000?style=for-the-badge&logoColor=white"/><img src="https://img.shields.io/badge/Repeat-%236A1B9A?style=for-the-badge&logo=repeat&logoColor=white"/>
 </p>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%23FF6347&size=40&center=true&vCenter=true&height=50&width=1000&lines=Find→Exploit→Post-Exploit→Report→Secure→Repeat...!" alt="Title"></img>
+  </a>
+</div>
