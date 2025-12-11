@@ -89,10 +89,10 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=TalhaKhan-404&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TalhaKhan-404&show_icons=true&theme=tokyonight&hide_border=false&border_radius=15&count_private=true&cache_seconds=3600" height="180" alt="GitHub Stats" />
 
   <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TalhaKhan-404&theme=tokyonight&hide_border=false&border_radius=15" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=TalhaKhan-404&theme=tokyonight&hide_border=false&border_radius=15&cache_seconds=3600" height="180" alt="GitHub Streak" />
 
 </div>
 
